@@ -1,2 +1,7 @@
 
 *.gz
+telebotbuilder.egg-info/dependency_links.txt
+telebotbuilder.egg-info/PKG-INFO
+telebotbuilder.egg-info/requires.txt
+telebotbuilder.egg-info/SOURCES.txt
+telebotbuilder.egg-info/top_level.txt
