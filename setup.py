@@ -7,7 +7,7 @@ README = (HERE / "README.md").read_text()
 setup(
   name = 'telebotbuilder',         
   packages = ['telebotbuilder'],   
-  version = '0.0.1',      
+  version = '0.0.2',      
   license='MIT',        
   description = 'An aggregate of packages I frequently install when building Telegram bots',   
   long_description=README,
@@ -15,7 +15,7 @@ setup(
   author = 'Zeph Ng',                   
   author_email = 'zephngdev@gmail.com',      
   url = 'https://github.com/zeph1997/telebotbuilder',   
-  download_url = 'https://github.com/zeph1997/telebotbuilder/archive/refs/tags/v0.0.1.tar.gz',    
+  download_url = 'https://github.com/zeph1997/telebotbuilder/archive/refs/tags/v0.0.2.tar.gz',    
   keywords = ['telebot', 'telegram', 'bot', 'chat', 'chatbot','firebase'],   
   install_requires=['pyTelegramBotAPI','firebase','python_jwt','gcloud','sseclient','requests-toolbelt'],
   classifiers=[
