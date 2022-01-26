@@ -15,7 +15,7 @@ setup(
   author = 'Zeph Ng',                   
   author_email = 'zephngdev@gmail.com',      
   url = 'https://github.com/zeph1997/telebotbuilder',   
-  download_url = 'https://github.com/zeph1997/AdventOfCodeInputReader/archive/refs/tags/v0.0.3.tar.gz',    
+  download_url = 'https://github.com/zeph1997/telebotbuilder/archive/refs/tags/v0.0.1.tar.gz',    
   keywords = ['telebot', 'telegram', 'bot', 'chat', 'chatbot','firebase'],   
   install_requires=['pyTelegramBotAPI','firebase','python_jwt','gcloud','sseclient','requests-toolbelt'],
   classifiers=[
